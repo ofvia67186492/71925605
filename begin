@@ -1,3 +1,4 @@
+while (rs.next())
 props.load(fs);
 test.init();
 OracleJdbcTest test = new OracleJdbcTest();
